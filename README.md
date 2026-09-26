@@ -4,7 +4,7 @@
 
 # GRD Iyers GuruCool
 
-Private source for the software that supports the [GuruCool](https://grdiyersgurucool.org/) member portal.
+Private source for the [GuruCool website](https://grdiyersgurucool.org/) and the plugins that make it work.
 
 The public site is for learning and membership. Repositories in this organization stay private and are shared only with the people who work on them.
 
