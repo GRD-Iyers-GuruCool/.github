@@ -4,8 +4,14 @@
 
 # GRD Iyers GuruCool
 
-Private source for the [GuruCool website](https://grdiyersgurucool.org/) and the plugins that make it work.
+[GRD Iyers GuruCool](https://grdiyersgurucool.org/) is a global community for immersive Vedic learning within Sanatana Dharma. Study and practice are offered through classes, mantra, and disciplined sadhana, for seekers of any age.
 
-The public site is for learning and membership. Repositories in this organization stay private and are shared only with the people who work on them.
+It was founded by Guruji Shree Ramesh Natarajan and Guruma Smt. Sridevi Gayathri Ramesh, known to their shishyas as GRD Guruji and Guruma.
+
+The public home for learning and membership is [grdiyersgurucool.org](https://grdiyersgurucool.org/).
 
 Contact: [grdiyersgurucool@gmail.com](mailto:grdiyersgurucool@gmail.com)
+
+## This GitHub account
+
+This organization holds the private source for that website and the plugins that make it work. Those repositories are shared only with the people who work on them.
