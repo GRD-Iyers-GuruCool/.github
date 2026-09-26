@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../logo.png" alt="GRD Iyers GuruCool" width="180" />
+  <img src="logo.png" alt="GRD Iyers GuruCool" width="180" />
 </p>
 
 # GRD Iyers GuruCool
